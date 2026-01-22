@@ -1,2 +1,2 @@
-# A01_OPIM5512_atj18003
+# A01_5512
 A01 - first assignment
